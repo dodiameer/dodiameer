@@ -1,5 +1,19 @@
 # Hey hey hey! 
 I'm Mohammed, but prefer to go by dodiameer online, and I'm a 15 (16???) year old developer. Mostly do frontend work with React but also have backend experience with Python (Flask & Django).
+
+## Technologies: (Fav to least fav)
+
+### Frontend:
+- React
+- React Native
+- Svelte
+
+### Backend:
+- Django
+- Flask
+
+About me: 
+---
 - 🔭 I’m currently working on lots of React projects
 - 🌱 I’m currently learning more React and React Native
 - 👯 I’m looking to collaborate on small projects
