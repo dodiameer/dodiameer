@@ -1,24 +1,7 @@
-# Hey hey hey! 
-I'm Mohammed, but prefer to go by dodiameer online, and I'm a 15 (16???) year old developer. Mostly do frontend work with React but also have backend experience with Python (Flask & Django).
+I tried to keep this up to date, but failed. Instead, vibe with this cat :)
 
-## Technologies: (Fav to least fav)
+![white cat vibing](https://i.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.webp "White cat vibing")
 
-### Frontend:
-- React
-- React Native
-- Svelte
 
-### Backend:
-- Django
-- Flask
+At the time of writing, I use Svelte for my frontends, and Phoenix for my backends :D
 
-About me: 
----
-- 🔭 I’m currently working on lots of React projects
-- 🌱 I’m currently learning more React and React Native
-- 👯 I’m looking to collaborate on small projects
-- 🤔 I’m looking for help with setting up a working React Native environment
-- 💬 Ask me about my cat
-- 📫 How to reach me: Twitter @RandomDodi
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to be super scared of cats and now we have 6 cats. Don't ask why or how.
